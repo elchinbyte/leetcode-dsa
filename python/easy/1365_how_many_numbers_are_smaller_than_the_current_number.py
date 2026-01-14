@@ -3,6 +3,8 @@
 # Topics: Arrays, Hash Table, Sorting, Counting sort
 # Language: Python 3
 
+from typing import List
+
 class Solution:
     def smallerNumbersThanCurrent(self, nums: List[int]) -> List[int]:
         res = []
